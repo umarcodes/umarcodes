@@ -4,11 +4,17 @@ I’m a multimedia and web developer interested in efficient solutions, useful t
 
 I enjoy building for the web, experimenting with interfaces, and turning ideas into projects.
 
+### Currently building
+
+- Improving [umar.app](https://umar.app)
+- Building polished frontend experiments with Vue and TypeScript
+- Exploring creative CSS, animation, and interactive interfaces
+
 ### Featured projects
 
 - **[Linkdrop](https://github.com/umarcodes/linkdrop)** : A self-hosted bio link manager. Your links, on your own server.
 - **[Countries](https://github.com/umarcodes/countries)** : A country lookup app built with TypeScript and Tailwind CSS.
-- **[Flexbox Video Background](https://github.com/umarcodes/flexbox-video-background)** : Experiments with video backgrounds and responsive layouts.
+- **[Flexbox Video Background](https://github.com/umarcodes/flexbox-video-background)** : Experiments with responsive layouts and video backgrounds.
 
 ### Around here
 
